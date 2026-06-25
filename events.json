@@ -31,5 +31,16 @@
     "cliente": "VICTOR HUGO ALVES  DE OLIVEIRA",
     "from": "2.3 Em Validação CCA",
     "to": "3.1 Aguardando Análise"
+  },
+  {
+    "id": "e7a1d114-d8f5-4f80-8b3e-7120ede4584c",
+    "ts": "2026-06-25T19:49:01.723Z",
+    "user": "Rodrigo Kayser",
+    "papel": "Diretor",
+    "tipo": "move",
+    "num": "5545",
+    "cliente": "OSMAR FRANCISCO RODRIGUES JUNIOR",
+    "from": "3.1 Aguardando Análise",
+    "to": "2.3 Em Validação CCA"
   }
 ]
