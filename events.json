@@ -20,5 +20,16 @@
     "cliente": "CARLA SIQUEIRA DE SOUZA (TESTE)",
     "from": "1.1 Preenchendo Ficha",
     "to": "2.2 Documentos Pendentes"
+  },
+  {
+    "id": "50c55d35-489e-4dc1-af65-3bb5d7716506",
+    "ts": "2026-06-25T19:48:53.908Z",
+    "user": "Rodrigo Kayser",
+    "papel": "Diretor",
+    "tipo": "move",
+    "num": "4917",
+    "cliente": "VICTOR HUGO ALVES  DE OLIVEIRA",
+    "from": "2.3 Em Validação CCA",
+    "to": "3.1 Aguardando Análise"
   }
 ]
